@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "2.0",
+	"FriendlyName": "ue_driving_practise_area_brunswick_map_feature",
+	"Description": "Driving Practise Area Brunswick Map for GEMSTAR",
+	"Category": "Game Features",
+	"CreatedBy": "DLR-TS",
+	"CreatedByURL": "https://github.com/DLR-TS",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EnabledByDefault": false,
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"ExplicitlyLoaded": true,
+	"BuiltInInitialFeatureState": "Active",
+	"Plugins": [
+		{
+			"Name": "GEMSTAR_Interfaces",
+			"Enabled": true,
+			"Activate": true
+		}
+	]
+}
